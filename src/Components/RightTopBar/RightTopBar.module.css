@@ -1,0 +1,25 @@
+.wrapper {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    height: 55px;
+    border-bottom: rgb(211, 209, 203) solid 1px;
+}
+
+.icon {
+    flex: 1;
+}
+
+.orgName {
+
+}
+
+.profileIcon {
+    margin: 0rem 1rem;
+}
+
+.profileIcon img {
+    display: flex;
+    align-items: center;
+    border-radius: 100%;
+}

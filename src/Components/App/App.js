@@ -1,10 +1,10 @@
 import React from 'react'
 
 // Components
-import ChannelRoom from '../ChannelRoom/ChannelRoom'
-import RightTopBar from '../RightTopBar/RightTopBar'
 import LeftTopBar from '../LeftTopBar/LeftTopBar'
 import ChannelList from '../ChannelList/ChannelList'
+import RightTopBar from '../RightTopBar/RightTopBar'
+import ChannelRoom from '../ChannelRoom/ChannelRoom'
 import SimpleBar from 'simplebar-react';
 
 // Styles

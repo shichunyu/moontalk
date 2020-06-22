@@ -10,7 +10,6 @@
 }
 
 .leftPanel {
-    overflow: hidden;
     max-width: 450px;
     min-width: 350px;
     width: 30%;
@@ -24,6 +23,8 @@
 }
 
 .scroll {
+    display: flex;
+    vertical-align: top;
     height: 100%;
     overflow-y: auto;
 }

@@ -22,7 +22,6 @@ const ChannelList = () => {
                     <ChannelItem/>
                     <ChannelItem/>
                     <ChannelItem/>
-
                 </li>
             </ol>
         </div>

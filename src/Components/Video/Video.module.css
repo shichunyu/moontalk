@@ -1,4 +1,6 @@
-.vid {
-    height: 300px;
-    width: 300px;
+#self {
+    max-width: 600px;
+}
+.friendVid {
+    max-width: 600px;
 }
